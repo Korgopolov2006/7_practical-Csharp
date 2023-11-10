@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\bin\Debug\net6.0\Korgopolov7_2.0.exe
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\bin\Debug\net6.0\Korgopolov7_2.0.deps.json
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\bin\Debug\net6.0\Korgopolov7_2.0.runtimeconfig.json
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\bin\Debug\net6.0\Korgopolov7_2.0.dll
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\bin\Debug\net6.0\Korgopolov7_2.0.pdb
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.AssemblyInfo.cs
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.dll
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\refint\Korgopolov7_2.0.dll
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.pdb
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\Korgopolov7_2.0.genruntimeconfig.cache
+C:\Users\1\source\repos\Korgopolov7_2.0\Korgopolov7_2.0\obj\Debug\net6.0\ref\Korgopolov7_2.0.dll
